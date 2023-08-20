@@ -1,4 +1,4 @@
- ![Logo](<Group 4.png>) 
+ ![Logo](</Assets/Group 4.png>) 
 <br>
 # Projeto simples de uma landing page.:smile:
 
